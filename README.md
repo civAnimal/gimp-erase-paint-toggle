@@ -1,6 +1,6 @@
 ## GIMP Erase-Paint Toggle
 
-This GIMP plugin allows you to quickly switch between __Paint__ and __Erase__ modes during painting. Most digital-painting softwares come preinstalled with this feature. Users from other softwares have long missed this feature in GIMP. Well, not any more.
+This GIMP plugin allows you to quickly switch between __Paint__ and __Erase__ modes during painting. Most digital-painting softwares come preloaded with this feature. Users from other softwares have long missed this feature in GIMP. Well, not any more.
 
 As you are painting, simply press the `E` key to activate the _Erase-Mode_ and remove any unwanted stuff easily. Once you're done erasing, just press the `E` key again to reactivate the _Paint-Mode_ and resume adding paint strokes. This way you could conveniently toggle between _Paint/Erase_ modes as and when you require with the simple press of a key.
 
@@ -37,4 +37,4 @@ As you are painting, simply press the `E` key to activate the _Erase-Mode_ and r
 * Twitter:  `civAnimal`
 
 
-Copyright © 2021 civAnimal
+Copyright Â© 2021 civAnimal
